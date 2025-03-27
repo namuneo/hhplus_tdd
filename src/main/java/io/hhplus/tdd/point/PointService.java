@@ -5,7 +5,6 @@ import io.hhplus.tdd.database.UserPointTable;
 import io.hhplus.tdd.exception.AmountOverFlowException;
 import io.hhplus.tdd.exception.WrongAmountException;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
